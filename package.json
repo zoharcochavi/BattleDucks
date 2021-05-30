@@ -14,7 +14,7 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "pug": "^2.0.3",
-    "ws": "^6.2.1"
+    "ws": "^7.4.6"
   },
   "author": "Zohar Cocavi & Mara Coman",
   "description": "First year Computer Science and Engineering Web Technology project. A multiplayer Battleship game using NodeJS with the Express framework.",
